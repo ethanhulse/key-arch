@@ -1,0 +1,89 @@
+Concept…
+Cyberwar
+Plot:
+Swiss build fully functional quantum processor
+qCPU can crack all encryptions; no digital security exists.
+Nihilistic psychopath steals “Michael’s (the archangel) Skeleton-Key” quantum hash cracking algorithm; threatens to decrypt all information unless demands are met. 
+Psychopath gains access to EMPG satellite using decryption. (EMP Signal persists in atmosphere, irradiates air, rendering faraday-cage protected systems impractical)
+Protag must develop encryption that the quantum processor can’t break
+If antagonist decrypts information, every human with an internet connection gains access to any information. Terrorists get US military info. All digital currency/bank info becomes public. World War 3 ensues. 
+
+
+Protagonist: Cybersecurity expert, working without support from any governments. 
+Antagonist: Nihilistic psychopath. Unknown person in unknown location, nobody and no government can seem to find them through any methods. Has access to super key that will break any encryption, threatens world with it. His conditions are that he’ll surrender if UN nukes Palestine (any controversial area??)
+Antagonist may be Ted Kaczinsky wannabe (Unabomer), follows same ideology that the industrial revolution was a mistake and technology will only lead to the autonomy of the masses. Motive and goal may be to create anarchy/chaos, or to simply eliminate modern technology.
+Climax: Protag develops bug that would wipe out antagonist’s quantum processor; but would also trigger worldwide EMP. Must choose between destroying all electronic tech or starting world war 3.
+Result: Protag triggers EMP, world is saved (Lives depending on electricity/tech are lost) …but now power doesn’t work and never will. 
+
+
+
+Plot development:
+
+
+
+
+Introduction:
+SCENE 1 :: Protagonist in university lecture hall
+>Protag is in crowded english 1010 class, all other students are on macbooks worth a kidney a piece, he's on a cheap lenovo thinkpad he found on ebay. 
+>Lecture is boring, most students just browsing Facebook, Twitter, etc.
+>Protag is equally bored, decides to boot up Dark Arch linux and have some fun
+>Protag boots into arch and begins the process...
+>Protag uses 0-day vulnerability he found in school routers a few weeks prior, injects packets into TCP streams.
+>Every student on wifi, including professor,'s computers begin to blast death metal at max volume. 
+>Professors mac is connected to lecture hall speakers, blasting Dying Fetus into everyone's skulls.
+>Protag has sound cancelling earbuds protecting his sanity. Sound of blast beats and agitated students cries for relief drowns out protags laughter.
+>Protag hits ^Z, hall is hit with sudden silence. Chaos ends as quickly as it started.
+>Confused students awkwardly laugh, professor is searching students faces for a suspect. 
+>Search yields no return, class resumes normality. 
+>Protag can't wipe stupid grin off face.
+END OF SCENE 1 :::
+
+SCENE 2 :: Protagonist is in dorm, friday evening
+>Protag sniffing dorm internet, stealing and copying other students homework and submitting it as his own before victims can, meaning he can't get caught for plagiarism because he turned it in first.
+>Protag multitasking, watching livestream of a tech news show
+>News program starts segment on completed development of working general purpose quantum computer in Switzerland lab.
+>Protag diverts attention to news
+>News cuts to live feed of caster on-site in switzerland. Caster is interviewing lead engineer of project. Computer can be seen in background with multiple scientists working on it, one engineer is sitting at monitor furiously writing notes down in a leather notepad. Engineer catches protags attention. Engineer seems to check notes with monitor, gets up, walks out of view of camera.
+>Protag ignores incident, continues to listen to lead engineer's responses. 
+>Engineer describes projects purpose as keeping world's information safe, particularly bank info.
+>Nearly all funding of project comes from major international banks.
+>Engineer brags about vetting process for workers; including psych analysis, background checks, RFID chips in employees wrists, etc.
+>Protag gets distracted by a ping signaling discovery of another homework assignment to be copied. 
+>As protag turns away, stream of interview goes black, then error screen. Stays for a few minutes, screen goes offline. 
+>Protag refreshes page, news site seems to have gone totally offline. 
+>Protags phone vibrates, it's a twitter notification from hometown friend studying abroad in germany.
+>Message is link to a video, timestamp is only a few minutes old, already going "viral"
+>Video seems to be taken with phone, at swiss lab of quantum computer. The video shows the news crew, and the engineer being interviewed. news camera man suddenly gets attention of caster, seems concerned.
+>Stops recording, protag assumes this is why stream cut out.
+>Twitter video shows sudden explosion from behind engineer. Holder of phone yells, camera view pans to show the quantum computer lab in flames. All equipment was obliterated. Explosions continue to go off. Twitter video ends. 
+>Protags friend is speculating on video with protag. Suspects some kind of problem with liquid nitrogen pumps caused the explosion and subsequent meltdown. 
+>A news tweet later reports unconfirmed death toll of 19, including reporters and all engineers/staff on site. Many injured, not all staff accounted for.
+>Protag spends next few days on internet tech forums discussing causes for incident. qTech lab plays it off as a mechanical failure of cooling system.
+>No progress on alternative causes evidence comes forward.
+END OF SCENE 2 :::
+
+SCENE 3 :: Protagonist is playing guitar at gig for metal band in local bar, next Saturday night
+>Protag finishes gig, sits down for drink after show.
+>Casually watches large array of screens showing different sports/esports livestreams. Bar is mildly populated.
+>Suddenly all streams crash, feeds change to image of Michael the Archangel blowing a horn.
+>All phones and electronics, including electronic cash register, displays "STAND BY FOR REVELATION" in bold black text on white background.
+>Displays all shift to new message reading "YOUR DATA IS BEING HELD HOSTAGE. THAT OF THE UNFAITHFUL WILL BE REVEALED. COMPLY OR PAY"
+>Then a new message "I AM FATE, YOU ARE MY DISCIPLES. FOLLOW MY COMMANDMENTS OR BE STRIPPED OF YOUR SECRETS"
+>A list of 10 demands appears, including: money (split between many crypto currencies) equivalent to $1.5 trillion USD,   The last commandment (of 10) was written in bold, red letters. "NUKE ((SYRIA/ISRAEL/LOS ANGELES/MOSCOW/??))"
+>The list is then followed by instructions for first 9 "commandments". And then "EVERY SIN IS A STEP TOWARDS DARKNESS".
+>The text went on repeat on every device with internet capable network interface and a display for 1 hour exactly. Nobody could stop the messages, even restarting or disconnecting did nothing.
+--
+>Chaos and bureaucracy ensue.
+>Mass debates, arguments, discussions on source of attack.
+>After internet hijack, everything seems normal, other than widespread panic across internet.
+>Experts across the board are baffled by hijacking, say attacker gained access to every ISP on planet simultaeneously. ((/*Or something with satellites? idk....maybe scrap this bit for realism*/))
+>Politicians and UN begin taking sides. No word from attacker, military seems to have lost control of secret persisting EMP satellites in orbit. 
+>Many say it's all a bluff, others suggest the potential correlation between the Swiss incident and the ransom might mean the attacker had managed to get a skeleton key. (Key generated by quantum computer that can be downloaded and used against any encryption. "Archangel Key")
+
+
+
+
+
+
+
+
